@@ -7,6 +7,7 @@ to integrate them into a Sinatra project.
 
 ## Objectives
 
+
 1.  Explain the purpose of dynamic routes
 2.  Create dynamic routes in the controller
 3.  Use URL params to help get the text from the URL into the views
